@@ -6,8 +6,8 @@ Dada la gran cantidad de comprobantes y complejidad de estos, es necesario reduc
 Es muy común que en las áreas contables las personas afectadas a esta tare destinen gran parte de su tiempo a esta tarea, en lugar de destinar el tiempo al control, análisis y asesoramiento profesional.
 
 Personas:
-- Mariela administrativa contable, carga mensualmente 5000 comprobantes de diferentes clientes y quiere reducir este tiempo para poder aportarle mas valor al analisuis de los gastos de sus clientes.
-- Juan Manuel: analista financiero, ingresa al mes 800 comprobantes de compras de una empresa agropecuaria con sus respectivos detalles de productos, le lleva nmucho tiempo por los errores en la carga de cada producto.
+- Mariela: administrativa contable, carga mensualmente 5000 comprobantes de diferentes clientes y quiere reducir este tiempo para poder aportarle mas valor al análisis de los gastos de sus clientes.
+- Juan Manuel: analista financiero, ingresa al mes 800 comprobantes de compras de una empresa agropecuaria con sus respectivos detalles de productos, le lleva mucho tiempo por los errores en la carga de cada producto.
 
 
 ## Objetivo
